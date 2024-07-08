@@ -22,21 +22,21 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
 
-   ```bash
+  ```bash
    git clone https://github.com/AbdullahThatsIt/investment-calculator.git
    ```
 
 2. **Install the dependencies**:
 
-```bash
-npm install
-```
+  ```bash
+  npm install
+  ```
 
 3. **Run the development server**:
 
-```bash
-npm run dev
-```
+  ```bash
+  npm run dev
+  ```
 
 4. **Open the application**:
 
@@ -48,7 +48,6 @@ Open your browser and navigate to ```http://localhost:5173``` to view the applic
 2. Enter the annual investment amount.
 3. Enter the expected return rate as a percentage.
 4. Enter the duration in years.
-5. Click on the "Calculate" button to view the results.
 
 The results will display the investment value, yearly interest, total interest, and invested capital for each year of the investment period.
 
